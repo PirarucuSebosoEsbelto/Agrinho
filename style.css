@@ -66,12 +66,13 @@ img{
 
 footer{
     display: flex;
+    justify-content: center;
     background-color: var(--verdin);
     color: black;
     border: 2px solid var(--cor-de-texto);
     margin: 5px 0;
     padding: 15px;
     border-radius: 20px;
-    flex-direction: column;
+    
     
 }
