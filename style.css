@@ -1,4 +1,120 @@
 body{
-    background: #1ccf00;
-background: radial-gradient(circle, rgba(28, 207, 0, 1) 0%, rgba(224, 0, 0, 1) 14%, rgba(133, 237, 255, 1) 29%, rgba(255, 255, 255, 1) 44%, rgba(53, 61, 56, 1) 56%, rgba(92, 71, 143, 1) 74%, rgba(255, 209, 5, 1) 86%, rgba(237, 83, 204, 1) 100%);
+background-color: var(--cor-de-fundo);
+font-family: "Fira Sans Condensed", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+
+:root{
+--cor-de-fundo: #80f380;
+--cor-de-texto: black;
+--cor-do-cabeçalho: rgb(6, 100, 11);
+--cinza: #abbbc5;
+}
+header{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: stretch;
+    justify-content: space-evenly;
+    background-color: var(--cor-do-cabeçalho);
+    border: 2px solid var(--cor-de-texto);
+    
+
+}
+
+img{
+    width: 8%;
+}
+
+.imagem{
+    width: 20%;
+
+}
+
+.imagem-1{
+    width: 20%;
+}
+
+.imagem-2{
+    width: 20%;
+}
+
+.apresentacao{
+    display: flex;
+    background-color: var(--cinza);
+    border: 2px solid black;
+    margin: 5px 0;
+    padding: 15px;
+    border-radius: 20px;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.colaterais{
+    display: flex;
+    border: 2px solid var(--cor-de-texto);
+    margin: 5px 0;
+    padding: 15px;
+    border-radius: 20px;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+a{
+    color: red;
+    text-decoration:none;
+}
+
+#equipe{
+    display: flex;
+    grid-template-columns: 50% 50%;
+    text-align: center;
+    border: 2px solid var(--cor-de-texto);
+    margin: 5px 0;
+    padding: 15px;
+    border-radius: 20px;
+    justify-items: center;
+    flex-direction: row;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    
+}
+.foto-equipe{
+    width: 30%;
+}
+
+.efeitos-colaterais{
+    width: 20%;
+}
+
+.efeitos-colaterais{
+    width: 20%;
+}
+
+footer{
+    display: flex;
+    background-color: white;
+    color: black;
+    border: 2px solid var(--cor-de-texto);
+    margin: 5px 0;
+    padding: 15px;
+    border-radius: 20px;
+    flex-direction: column;
+    
+}
+
+.vendedores{
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: flex-start;
+    
 }
