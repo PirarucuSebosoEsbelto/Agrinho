@@ -1,7 +1,6 @@
 
 :root{
 --cor-de-fundo: #80f380;
---cor-de-texto: black;
 --cor-do-cabeçalho: rgb(6, 100, 11);
 --verdin: #cbf7ba;
 }
@@ -22,7 +21,7 @@ header{
     align-content: stretch;
     justify-content: space-evenly;
     background-color: var(--cor-do-cabeçalho);
-    border: 2px solid var(--cor-de-texto);
+    border: 2px solid black;
     
 
 }
@@ -49,7 +48,7 @@ img{
 
 .beneficios{
     display: flex;
-    border: 2px solid var(--cor-de-texto);
+    border: 2px solid black;
     background-color: var(--verdin);
     margin: 5px 0;
     padding: 15px;
@@ -69,7 +68,7 @@ footer{
     justify-content: center;
     background-color: var(--verdin);
     color: black;
-    border: 2px solid var(--cor-de-texto);
+    border: 2px solid black;
     margin: 5px 0;
     padding: 15px;
     border-radius: 20px;
