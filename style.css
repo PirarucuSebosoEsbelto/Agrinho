@@ -1,7 +1,7 @@
 
 :root{
 --cor-de-fundo: #80f380;
---cor-do-cabeçalho: rgb(6, 100, 11);
+--cor-do-cabeçalho: rgba(12, 119, 17, 0.671);
 --verdin: #cbf7ba;
 }
 
@@ -66,7 +66,7 @@ img{
 footer{
     display: flex;
     justify-content: center;
-    background-color: var(--verdin);
+    background-color: var(--cor-do-cabeçalho);
     color: black;
     border: 2px solid black;
     margin: 5px 0;
