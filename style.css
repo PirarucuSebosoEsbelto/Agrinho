@@ -46,9 +46,10 @@ img{
 
 }
 
-.colaterais{
+.beneficios{
     display: flex;
     border: 2px solid var(--cor-de-texto);
+    background-color: var(--verdin);
     margin: 5px 0;
     padding: 15px;
     border-radius: 20px;
@@ -64,6 +65,7 @@ a{
 }
 
 #equipe{
+    background-color: var(--verdin);
     display: flex;
     grid-template-columns: 50% 50%;
     text-align: center;
