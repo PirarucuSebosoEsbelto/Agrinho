@@ -14,11 +14,7 @@ font-family: "Fira Sans Condensed", sans-serif;
 }
 header{
     display: flex;
-    align-items: center;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    align-content: stretch;
-    justify-content: space-evenly;
+    justify-content: flex-start;
     text-color: white;
     background-color: var(--cor-do-cabeçalho);
     border: 2px solid var(--cor-de-texto);
