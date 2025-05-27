@@ -34,14 +34,6 @@ img{
 
 }
 
-.imagem-1{
-    width: 20%;
-}
-
-.imagem-2{
-    width: 20%;
-}
-
 .apresentacao{
     display: flex;
     background-color: var(--cinza);
