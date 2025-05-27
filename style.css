@@ -1,3 +1,11 @@
+
+:root{
+--cor-de-fundo: #80f380;
+--cor-de-texto: black;
+--cor-do-cabeçalho: rgb(6, 100, 11);
+--verdin: #cbf7ba;
+}
+
 body{
 background-color: var(--cor-de-fundo);
 font-family: "Fira Sans Condensed", sans-serif;
@@ -6,12 +14,6 @@ font-family: "Fira Sans Condensed", sans-serif;
 
 }
 
-:root{
---cor-de-fundo: #80f380;
---cor-de-texto: black;
---cor-do-cabeçalho: rgb(6, 100, 11);
---verdin: #cbf7ba;
-}
 header{
     display: flex;
     align-items: center;
@@ -19,7 +21,6 @@ header{
     flex-wrap: nowrap;
     align-content: stretch;
     justify-content: space-evenly;
-    text-color: white;
     background-color: var(--cor-do-cabeçalho);
     border: 2px solid var(--cor-de-texto);
     
