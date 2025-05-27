@@ -19,6 +19,7 @@ header{
     flex-wrap: nowrap;
     align-content: stretch;
     justify-content: space-evenly;
+    text-color: white;
     background-color: var(--cor-do-cabeçalho);
     border: 2px solid var(--cor-de-texto);
     
