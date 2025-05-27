@@ -17,10 +17,6 @@ font-family: "Fira Sans Condensed", sans-serif;
 
 header{
     display: flex;
-    align-items: center;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    align-content: stretch;
     justify-content: space-evenly;
     padding: 15px;
     border-radius: 20px;
@@ -52,9 +48,6 @@ img{
 
 .beneficios{
     display: flex;
-    flex-wrap: nowrap;
-    flex-direction: row;
-    justify-content: space-around;
     align-items: center;
     margin: 5px 0;
     padding: 15px;
