@@ -10,11 +10,15 @@ font-family: "Fira Sans Condensed", sans-serif;
 --cor-de-fundo: #80f380;
 --cor-de-texto: black;
 --cor-do-cabeçalho: rgb(6, 100, 11);
---cinza: #abbbc5;
+--verdin: #cbf7ba;
 }
 header{
     display: flex;
-    justify-content: flex-start;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: stretch;
+    justify-content: space-evenly;
     text-color: white;
     background-color: var(--cor-do-cabeçalho);
     border: 2px solid var(--cor-de-texto);
@@ -33,14 +37,12 @@ img{
 
 .apresentacao{
     display: flex;
-    background-color: var(--cinza);
+    background-color: var(--verdin);
     border: 2px solid black;
     margin: 5px 0;
     padding: 15px;
     border-radius: 20px;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-    align-items: center;
+    justify-content: flex-start;
 
 }
 
