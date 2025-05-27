@@ -59,37 +59,7 @@ img{
     align-items: center;
 }
 
-a{
-    color: red;
-    text-decoration:none;
-}
-
-#equipe{
-    background-color: var(--verdin);
-    display: flex;
-    grid-template-columns: 50% 50%;
-    text-align: center;
-    border: 2px solid var(--cor-de-texto);
-    margin: 5px 0;
-    padding: 15px;
-    border-radius: 20px;
-    justify-items: center;
-    flex-direction: row;
-    align-items: flex-start;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-content: center;
-    
-}
-.foto-equipe{
-    width: 30%;
-}
-
-.efeitos-colaterais{
-    width: 20%;
-}
-
-.efeitos-colaterais{
+.comidas-rurais{
     width: 20%;
 }
 
@@ -102,12 +72,5 @@ footer{
     padding: 15px;
     border-radius: 20px;
     flex-direction: column;
-    
-}
-
-.vendedores{
-    display: flex;
-    flex-direction: row-reverse;
-    align-items: flex-start;
     
 }
