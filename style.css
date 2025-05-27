@@ -48,6 +48,7 @@ img{
 
 .beneficios{
     display: flex;
+    justify-content: space-around;
     align-items: center;
     margin: 5px 0;
     padding: 15px;
