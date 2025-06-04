@@ -23,9 +23,12 @@ header{
     border-radius: 20px;
     border: 2px solid var(--cor-de-borda);
     color: var(--cor-de-texto-2);
-    background-color: var(--cor-do-cabeçalho);
-    
-    
+    background-color: var(--cor-do-cabeçalho);   
+}
+
+h3{
+    display: flex;
+    justify-content: space-around;
 }
 
 .frase{
