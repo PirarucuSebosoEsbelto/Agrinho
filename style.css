@@ -47,7 +47,7 @@ img{
     flex-direction: row-reverse;
     margin: 5px 0;
     padding: 15px;
-    border-radius: 20px;
+    border-radius: 10px;
     border: 2px solid var(--cor-de-borda);
     background-color: var(--cor-de-fundo-2);
 }
