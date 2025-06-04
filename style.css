@@ -110,6 +110,12 @@ header{
     margin: 5px 0;
 }
 
+.produtores{
+    border: 4px solid;
+    border-radius: 20px;
+    margin: 5px 0;
+}
+
 footer{
     display: flex;
     justify-content: center;
