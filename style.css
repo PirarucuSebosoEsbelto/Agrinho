@@ -26,11 +26,6 @@ header{
     background-color: var(--cor-do-cabeçalho);   
 }
 
-h3{
-    display: flex;
-    justify-content: space-around;
-}
-
 .frase{
     display: flex;
     margin: 5px 0;
