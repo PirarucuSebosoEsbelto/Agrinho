@@ -5,6 +5,7 @@
 --cor-de-fundo-2: #cbf7ba;
 --cor-de-borda: black;
 --cor-de-texto-2: whitesmoke;
+--cor-de-fundo-3: rgba(9, 90, 5, 0.465);
 }
 
 body{
@@ -33,14 +34,9 @@ header{
     padding: 15px;
     border-radius: 20px;
     border: 2px solid var(--cor-de-borda);
-    background-color: var(--cor-do-cabeçalho);
+    background-color: var(--cor-de-fundo-3);
     text-shadow: -1px -1px 0 black, 1px -1px 0 black, 1px 1px 0 black, -1px 1px 0 black;
     color: var(--cor-de-texto-2);
-}
-
-.frasinha{
-    display: flex;
-    justify-content: center;
 }
 
 .titulo{
@@ -123,7 +119,7 @@ footer{
     padding: 15px;
     border-radius: 20px;
     border: 2px solid var(--cor-de-borda);
-    background-color: var(--cor-do-cabeçalho);
+    background-color: var(--cor-de-fundo-3);
     color: var(--cor-de-texto-2);
        
     
