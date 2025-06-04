@@ -34,7 +34,8 @@ header{
     border-radius: 20px;
     border: 2px solid var(--cor-de-borda);
     background-color: var(--cor-do-cabeçalho);
-    text-shadow: -1px -1px 0 black, 1px -1px 0 black, 1px 1px 0 black, -1px 1px 0 white;
+    text-shadow: -1px -1px 0 black, 1px -1px 0 black, 1px 1px 0 black, -1px 1px 0 black;
+    color: var(--cor-de-texto-2);
 }
 
 .titulo{
