@@ -35,21 +35,7 @@ header{
 
 }
 
-.pinhao{
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-    align-items: flex-start;
-}
-
-.vaca{
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-    align-items: flex-start;
-}
-
-.pamonha{
+.papa{
     display: flex;
     flex-direction: column;
     justify-content: space-around;
