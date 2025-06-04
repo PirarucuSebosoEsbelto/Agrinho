@@ -37,12 +37,14 @@ img{
 }
 
 .hamert{
-    width: 20%;
+    width: 80%;
 }
 
 .gif{
-     display: flex;
-    justify-content: flex-end;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row-reverse;
 }
 
 .apresentacao{
