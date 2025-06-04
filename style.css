@@ -36,6 +36,15 @@ img{
 
 }
 
+.hamert{
+    width: 20%;
+}
+
+.gif{
+     display: flex;
+    justify-content: flex-end;
+}
+
 .apresentacao{
     display: flex;
     justify-content: flex-start;
