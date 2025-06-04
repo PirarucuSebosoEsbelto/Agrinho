@@ -111,13 +111,18 @@ header{
 }
 
 .produtores{
+    background-color: var(--cor-de-fundo-2);
     border: 4px solid;
+    padding: 15px;
     border-radius: 20px;
     margin: 5px 0;
 }
 
 .prod{
     width: 40%;
+    border: 4px solid;
+    border-radius: 20px;
+    margin: 5px 0;
 }
 
 footer{
