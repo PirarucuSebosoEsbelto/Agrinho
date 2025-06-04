@@ -32,6 +32,18 @@ header{
 
 }
 
+.pinhao{
+    display: flex;
+}
+
+.vaca{
+    display: flex;
+}
+
+.pamonha{
+    display: flex;
+}
+
 .hamert{
     width: 150%;
     border: 4px solid;
