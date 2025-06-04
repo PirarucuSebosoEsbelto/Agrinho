@@ -116,6 +116,10 @@ header{
     margin: 5px 0;
 }
 
+.prod{
+    width: 40%;
+}
+
 footer{
     display: flex;
     justify-content: center;
