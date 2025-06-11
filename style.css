@@ -30,7 +30,7 @@ header{
     display: flex;
     justify-content: space-evenly;
     margin: 5px 0;
-    padding: 50px;
+    padding: 40px;
     border-radius: 20px;
     border: 2px solid var(--cor-de-borda);
     background-color: var(--cor-de-fundo-3);
