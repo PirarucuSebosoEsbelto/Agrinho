@@ -83,7 +83,7 @@ header{
 .origin{
   display: flex;
   justify-content: center;
-  text-size-adjust: 102%;
+  text-size-adjust: 150%;
   background-color: var(--cor-de-fundo);
   border: 4px solid;
   border-radius: 20px;
