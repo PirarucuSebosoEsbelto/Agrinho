@@ -1,11 +1,11 @@
 
 :root{
---cor-de-fundo: #f7f5dd;
---cor-do-cabeçalho: rgba(12, 119, 17, 0.671);
---cor-de-fundo-2: #cbf7ba;
+--cor-de-fundo: #EAFAEA;
+--cor-do-cabeçalho: #780C28;
+--cor-de-fundo-2: #CAE0BC;
 --cor-de-borda: black;
 --cor-de-texto-2: whitesmoke;
---cor-de-fundo-3: rgba(10, 92, 6, 0.486);
+--cor-de-fundo-3: #6E8E59;
 }
 
 body{
