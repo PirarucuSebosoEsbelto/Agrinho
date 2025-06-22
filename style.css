@@ -135,12 +135,13 @@ header{
 
 footer{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
+    margin: 5px 0;
     padding: 15px;
     border-radius: 20px;
     border: 2px solid var(--cor-de-borda);
+    background-color: var(--cor-de-fundo-3);
     color: var(--cor-de-texto-2);
-    background-color: var(--cor-do-cabeçalho);
        
     
 }
