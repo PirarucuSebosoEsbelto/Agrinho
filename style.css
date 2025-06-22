@@ -105,20 +105,11 @@ header{
 }
 
 .beneficios{
-    display: flex;
-    align-items: center;
     margin: 5px 0;
     padding: 15px;
     border-radius: 20px;
     border: 2px solid var(--cor-de-borda);
     background-color: var(--cor-de-fundo-2);
-}
-
-.dia{
-    width: 120%;
-    border: 4px solid;
-    border-radius: 20px;
-    margin: 5px 0;
 }
 
 .produtores{
