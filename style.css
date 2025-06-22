@@ -115,13 +115,6 @@ header{
     background-color: var(--cor-de-fundo-2);
 }
 
-.comidas-rurais{
-    width: 20%;
-    border: 4px solid;
-    border-radius: 20px;
-    margin: 5px 0;
-}
-
 .produtores{
     background-color: var(--cor-de-fundo-2);
     border: 2px solid;
