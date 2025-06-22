@@ -131,6 +131,11 @@ header{
     margin: 5px 0;
 }
 
+.produtor{
+    display: flex;
+    justify-content: space-around;
+}
+
 footer{
     display: flex;
     justify-content: center;
